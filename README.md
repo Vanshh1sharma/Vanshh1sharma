@@ -77,7 +77,7 @@ A small set of scripts for digital footprinting, investigation workflows, and au
 
 <p align="center">
   <a href="https://github.com/Vanshh1sharma"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://www.linkedin.com/in/vansh-sharma-682770334/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 </p>
 
 ---
