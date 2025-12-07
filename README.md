@@ -6,7 +6,7 @@
 <h3 align="center">AI • Cybersecurity • OSINT • Computer Vision • Astronomy</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=Building+AI+that+Sees+the+Moon.;Breaking+Things+to+Understand+Them.;Digital+Detective+in+Training.;OSINT+%7C+AI+%7C+CV+%7C+Next.js+Explorer.;Welcome+to+my+Universe.">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=Building+AI+that+Sees+the+Moon.;Breaking+Things+to+Understand+Them.;Digital+Detective+in+Training.;OSINT+%7C+AI+%7C+CV+%7C+AI+Explorer.;Welcome+to+my+Universe.">
 </p>
 
 ---
